@@ -15,6 +15,12 @@
 .cache
 .classpath
 .ensime
+.index
+.log
+.mill-version
+.mill
+.timeindex
+*logs*
 .ensime_cache/
 .ensime_lucene
 .generated-mima*
@@ -27,6 +33,7 @@
 .settings
 .vscode
 /lib/
+spark-master/
 R-unit-tests.log
 R/unit-tests.out
 R/cran-check.out
